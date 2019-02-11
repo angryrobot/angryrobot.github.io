@@ -49,7 +49,7 @@ or you can use RVM (Ruby Version Manager)
 
 **Install RVM:** (Optional)
 
-Full instructions here: https://rvm.io/
+Full instructions here: [https://rvm.io/](https://rvm.io/)
 
 **Install GPG keys:**
 
