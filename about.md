@@ -4,15 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+ElementXDesign was created in 2018 by [DarkstarDevX](mailto:darkstardevx@gmail.com). I am a self taught coder and my main area of expertise is in ```HTML``` and ```CSS```  although I do tinker with other programming languages such as ```Go```, ```Ruby```, ```Java```, ```Scala```, ```Kotlin``` and ```Python```.  
