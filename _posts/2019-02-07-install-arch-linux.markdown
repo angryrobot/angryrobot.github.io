@@ -7,7 +7,7 @@ categories: os
 
 *<u>This tutorial assumes that you have a working knowledge of the linux system.</u>*
 
-1) Download the Arch Linux ISO File**
+**1) Download the Arch Linux ISO File**
 
 First download the Arch .iso from [here](https://www.archlinux.org/). 
 
